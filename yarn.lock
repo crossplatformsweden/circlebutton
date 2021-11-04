@@ -1055,10 +1055,9 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@crossplatformsweden/github-npm@^1.0.1":
-  version "1.0.1"
-  resolved "https://npm.pkg.github.com/download/@crossplatformsweden/github-npm/1.0.1/15592994c65064e53e7d23cf28a4270daf0cdca4e3a80fc434de332fbba79c73#70ae019cf230d99c76be6cffc7159306ea4edbaf"
-  integrity sha512-SfbscG9ZVAVurP70q+i5qMP4jNcvZQB6LKtcgFGQwIx7Sowd5a623WMpId8DdBboIlfb18QrsvZrBqRoyAT5BA==
+"@crossplatformsweden/github-npm@https://github.com/crossplatformsweden/github-npm":
+  version "1.1.0"
+  resolved "https://github.com/crossplatformsweden/github-npm#821eb0775b8fdba91790690f41fdf490bcf4a907"
 
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
@@ -6418,7 +6417,7 @@ lodash@^3.5.0:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
   integrity sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=
 
-lodash@^4.0.0, lodash@^4.16.6, lodash@^4.17.10, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.3.0, lodash@^4.6.1:
+lodash@^4.0.0, lodash@^4.16.6, lodash@^4.17.10, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.21, lodash@^4.17.4, lodash@^4.3.0, lodash@^4.6.1:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
